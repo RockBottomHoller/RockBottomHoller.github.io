@@ -9,9 +9,9 @@ We are a family ran homestead practicing old and new ways of living and seeing j
 ![Billy](img/billy.jpeg)
 ![a beautiful fire cooked meal](img/breakfast.jpeg)
 ![](img/mormor.jpeg)
-![](img/tea.jpeg)
+![]<img src="img/tea.jpeg" width="40%" height="40%" />
 ![](img/emperor.jpeg)
-<img src="img/eggs.jpeg" width="80%" height="80%" />
+<img src="img/eggs.jpeg" width="40%" height="40%" />
 ![](img/mountain-wizard.jpeg)
 ![](img/harvest.jpeg)
 ![](img/buster.jpeg)
