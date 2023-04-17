@@ -9,7 +9,7 @@
     text-align: center;
   }
   img {
-    width: 93%;
+    width: 92%;
   }
   .links-container {
     text-align: center;
@@ -20,21 +20,27 @@
   }
 </style>
 
-HEYA!
-Welcome to the
-# rock bottom holler
-website. A simple site to connect. 
+<!-- Center the headers -->
+<div style="text-align: center;">
+  <h2>HEYA!</h2>
+    <h3>Welcome to the</h3>
+  <h1>Rock Bottom Holler</h1>
+    <h2>website. A simple site to connect.</h2>
+</div>
+
 ### Our adventure statement:
 We are a family ran homestead practicing old and new ways of living and seeing just how self-sustainable we can get. 2023 we will be implementing a practice called rammed earth in the form of a green house! If successful new living quarters will be built the same way. Here are all of the connecting links if you would like to come and join our family in learning some sweet sh*t
 
+
 <div class="links-container">
   <ul>
-    <li>[Instagram](https://www.instagram.com/rockbottomholler/)</li>
-    <li>[Facebook](https://www.facebook.com/rockbottomholler/)</li>
-    <li>[Youtube](https://www.youtube.com/channel/rockbottomholler)</li>
-    <li>[Patreon](https://www.patreon.com/rockbottomholler)</li>
-    <li>[Website](https://rockbottomholler.github.io)</li>
-    <li>[Email](mailto:youremail@example.com)</li>
+    <li><a href="https://www.instagram.com/rockbottomholler/">Instagram</a></li>
+    <li><a href="https://www.facebook.com/rockbottomholler/">Facebook</a></li>
+    <li><a href="https://www.youtube.com/channel/rockbottomholler">Youtube</a></li>
+    <li><a href="https://www.patreon.com/rockbottomholler">Patreon</a></li>
+    <li><a href="https://www.etsy.com/shop/RockBottomHoller">TikTok</a></li>
+    <li><a href="https://wwoofusa.org/en/host/22048-homestead-orchard-permaculture-livestock-natural-building-bees">Woof</a></li>
+    <li><a href="mailto:youremailaddres@example.com">Email</a></li>
   </ul>
 </div>
 
